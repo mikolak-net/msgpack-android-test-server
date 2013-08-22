@@ -65,7 +65,7 @@
 		<dependency>
 			<groupId>org.msgpack</groupId>
 			<artifactId>msgpack</artifactId>
-			<version>0.6.8-SNAPSHOT</version>
+			<version>0.6.8</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
@@ -73,7 +73,7 @@
 		<dependency>
 			<groupId>org.msgpack</groupId>
 			<artifactId>msgpack-rpc</artifactId>
-			<version>0.7.1-SNAPSHOT</version>
+			<version>0.7.0</version>
 			<type>jar</type>
 			<scope>compile</scope>
 		</dependency>
